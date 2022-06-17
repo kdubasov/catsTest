@@ -1,0 +1,1 @@
+let ROOT_CATS = document.querySelector('#cats');
