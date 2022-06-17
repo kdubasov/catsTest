@@ -85,7 +85,7 @@
     margin-top: 10px;
     width: calc(100% - 8px);
     height: 270px;
-    background-image: url("./img/cat.png");
+    background-image: url("../img/cat.png");
     background-size: cover;
     background-position: top left;
 }
